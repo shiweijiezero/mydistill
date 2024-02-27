@@ -1,0 +1,29 @@
+CUDA_VISIBLE_DEVICES: "3,4,5"
+
+gradient_accumulation_steps: 20
+batch_size: 10
+n_epoch: 15
+#n_epoch: 3
+seed: 48
+
+temperature: 2.0
+alpha_ce: 5.0
+#alpha_ce: 0.5
+#alpha_ce: 2.5
+alpha_mlm: 0
+alpha_clm: 0.5
+#alpha_clm: 2
+alpha_mse: 0
+alpha_cos: 0.5
+#alpha_cos: 1
+
+weight_decay: 0.00000001
+learning_rate: 0.0005
+adam_epsilon: 0.000001
+max_grad_norm: 2.0
+initializer_range: 0.02
+warmup_prop: 0.05
+
+train_data_size: 8013769 # 全量
+#train_data_size: 80137
+model_max_length: 1024
