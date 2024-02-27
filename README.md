@@ -1,6 +1,6 @@
 # mydistill
 
-通用蒸馏技术
+# 通用蒸馏技术
 2022，阿里，Knowledge Distillation of Transformer-based Language Models Revisited
 
 2023，Meta，Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning
@@ -9,7 +9,7 @@
 
 2021，清华，Bert，One Teacher is Enough?Pre-trained Language Model Distillation from Multiple Teachers
 
-LLM蒸馏技术
+# LLM蒸馏技术
 2023，微软，Knowledge Distillation of Large Language Models
 
 2023，谷歌，Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
@@ -18,7 +18,7 @@ LLM蒸馏技术
 
 2023，ICML，Less is More: Task-aware Layer-wise Distillation for Language Model Compression
 
-未过滤：
+# 未过滤：
 MIXKD: TOWARDS EFFICIENT DISTILLATION OF LARGE-SCALE LANGUAGE MODELS
 
 Dynamic Knowledge Distillation for Pre-trained Language Models
